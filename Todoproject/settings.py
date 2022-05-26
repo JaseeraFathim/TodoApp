@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-6ug!^xt!_&h6#(0z=f#nn-x8-dg+7ltje!^qjp-f25$t=$_ta5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://todoappproject.vercel.app/']
+ALLOWED_HOSTS = [ ]
 
 
 # Application definition
